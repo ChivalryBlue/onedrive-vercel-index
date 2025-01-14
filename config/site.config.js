@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'TG',
+      name: 'Telegram',
       link: 'https://t.me/anti_fraudX_bot',
     },
   ],
