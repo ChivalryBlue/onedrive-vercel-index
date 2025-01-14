@@ -53,7 +53,6 @@ module.exports = {
   links: [
     {
       name: 'TG',
-      icon: https://api.iconify.design/fa-brands:telegram.svg
       link: 'https://t.me/anti_fraudX_bot',
     },
   ],
